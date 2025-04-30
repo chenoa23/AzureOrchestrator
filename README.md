@@ -1,4 +1,4 @@
-AzureOrchestrator
+# AzureOrchestrator
 
 This project showcases how to orchestrate two Azure Function Apps using Azure Durable Functions.
 
