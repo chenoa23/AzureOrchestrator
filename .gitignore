@@ -1,0 +1,15 @@
+# Ignore virtual environment
+voice_env/
+
+# Bytecode cache
+__pycache__/
+
+# System files
+.DS_Store
+
+# Temporary audio and model files
+*.mp3
+temp/
+*.pkl
+lid.176.bin
+
